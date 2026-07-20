@@ -141,9 +141,9 @@ Press **1**, **2**, or **3** in the camera window (click it first to give it foc
 
 | Key | Profile | Full Lock At | Best For |
 |---|---|---|---|
-| `1` | CITY | 65° tilt | City streets, tight turns |
-| `2` | HIGHWAY | 45° tilt | Open roads |
-| `3` | MOTORWAY | 28° tilt | Highways, keeping a trailer stable |
+| `1` | CITY | 28° tilt | City streets, tight turns |
+| `2` | HIGHWAY | 26° tilt | Open roads |
+| `3` | MOTORWAY | 16° tilt | Highways, keeping a trailer stable |
 
 > Start with **profile 3** when driving with a trailer — it makes small steering corrections much easier.
 
