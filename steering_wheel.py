@@ -40,8 +40,8 @@ except Exception:
 
 # ─── CONFIG ────────────────────────────────────────────────────────────────────
 CAMERA_INDEX        = None    # None = auto-detect (scans 0-4); set to 0/1/2 to force a specific camera
-DEAD_ZONE_DEG       = 4       # tilt within this = no steering output  (was 14 — smaller so tiny tilts register)
-STEERING_CURVE      = 3.0     # 1=linear  2=quadratic  3=cubic  (cubic = very gentle at small angles, progressive)
+DEAD_ZONE_DEG       = 2       # tilt within this = no steering output  (was 14 — smaller so tiny tilts register)
+STEERING_CURVE      = 1.5     # 1=linear  2=quadratic  3=cubic  (cubic = very gentle at small angles, progressive)
 FLIP_CAMERA         = True
 SHOW_ANGLE          = True
 MIN_DETECTION_CONF  = 0.3
